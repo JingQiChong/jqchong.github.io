@@ -1,4 +1,4 @@
-# <div align="center">👋 Hello, welcome to my world!👋</div>
+# 👋 Hello, welcome to my world!👋
 
 My name is Jing Qi and I am a research assistant in [Prof. Albert Tenesa](https://www.ed.ac.uk/profile/albert-tenesa)'s lab at the Roslin Institute. My current work is a bioinformatics project focusing on livestock genomics and developing a bioinformatics workflow that select desirable CpG sites for inclusion in a DNA methylation array. My research interest lies in functional genetics and genomics and I am keen of their applications in disease and livestock settings. 
 
