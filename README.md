@@ -13,7 +13,7 @@ About my honours project work:
  - [Khd1 CRAC analysis](https://github.com/JingQiChong/Khd1_CRAC_analysis)
 
 You can also find me on: 
-  - [The Roslin Institute](https://www.ed.ac.uk/profile/jing-qi-chong)
+  - [The Roslin Institute](https://www.ed.ac.uk/profile/jchong)
   - [LinkedIn](https://www.linkedin.com/in/chong-jing-qi-2b0a7919a/)
   - [Wallace lab](https://ewallace.github.io/team/jingqi-chong)
   - [Github](https://github.com/JingQiChong)
